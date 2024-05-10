@@ -23,6 +23,7 @@
 17. [Add To Array-Form Integer](https://leetcode.com/problems/transpose-matrix/solutions/5121239/java-runtime-0ms-memory-45-12-mb-simple-approach/)
 18. [Find Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/solutions/5080416/java-simple-approach/)
 19. [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/solutions/5138229/java-simple-approach/)
+20. [Two Sum](https://leetcode.com/problems/two-sum/solutions/5140808/java-simple-approach/)
 
 ### Medium
 
