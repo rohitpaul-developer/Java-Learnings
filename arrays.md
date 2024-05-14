@@ -25,6 +25,7 @@
 19. [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/solutions/5138229/java-simple-approach/)
 20. [Two Sum](https://leetcode.com/problems/two-sum/solutions/5140808/java-simple-approach/)
 21. [Find N Unique Integers Sum Up To 0](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/solutions/5156242/java-simple-approach-runtime-0-ms-memory-41-56mb/)
+22. [Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/solutions/5156949/java-simple-approach/)
 
 ### Medium
 
